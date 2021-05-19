@@ -1,0 +1,6 @@
+funimatio - information
+Score: 5 Sequence(s): "matio"
+funimatio - malfunction
+Score: 3 Sequence(s): "fun" "tio"
+information - malfunction
+Score: 4 Sequence(s): "tion"

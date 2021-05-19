@@ -1,0 +1,20 @@
+anafram - anagram
+Score: 4 Sequence(s): "anafram"
+anafram - frame
+Score: 4 Sequence(s): "fram"
+anafram - gramaphone
+Score: 3 Sequence(s): "ram"
+anafram - graphics
+Score: 2 Sequence(s): "ra"
+anagram - frame
+Score: 3 Sequence(s): "ram"
+anagram - gramaphone
+Score: 4 Sequence(s): "gram"
+anagram - graphics
+Score: 3 Sequence(s): "gra"
+frame - gramaphone
+Score: 3 Sequence(s): "ram"
+frame - graphics
+Score: 2 Sequence(s): "ra"
+gramaphone - graphics
+Score: 3 Sequence(s): "aph" "gra"
